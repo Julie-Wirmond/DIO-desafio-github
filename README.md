@@ -3,4 +3,4 @@
 Hello World! Aqui estão algumas anotações pessoais minhas referentes  
 ao desafio git/github do Bootcamp Web Developer Carrefour na Digital Innovation One.
 
-[Onde conseguir o Git]<https://git-scm.com/>
+[Onde conseguir o Git] (https://git-scm.com/)
